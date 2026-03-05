@@ -46,16 +46,17 @@ This problem called the attention of software developers over the necessity of n
 
 Accordingly, Ortega-Tenezaca and González-Díaz introduced SOFT.PTML studio tool; this time including the possibility of calculating multi-label PTOs. This includes multi-label/multi-condition reference functions, moving averages, co-variances, etc. These PTOs, not present in QSAR-Co, have been very useful in order to reduce problem dimensionality in other problems. In fact, SOFT.PTMLhas been successfully used in IFPTML modeling nanotechnology and medicinal chemistry for this purpose as well.
 
-SOFT.PTML Software References:
+SOFT.PTML Software First Paper:
+Prediction of Antileishmanial Compounds: General Model, Preparation, and Evaluation of 2-Acylpyrrole Derivatives.
+Santiago C, Ortega-Tenezaca B, Barbolla I, Fundora-Ortiz B, Arrasate S, Dea-Ayuela MA, González-Díaz H, Sotomayor N, Lete E.
+J Chem Inf Model. 2022 Aug 22;62(16):3928-3940. doi: 10.1021/acs.jcim.2c00731.
+
+SOFT.PTML & PTML Related References:
 
 PTML Multi-Label Algorithms: Models, Software, and Applications. 
 Ortega-Tenezaca B, Quevedo-Tumailli V, Bediaga H, Collados J, Arrasate S, 
 Madariaga G, Munteanu CR, Cordeiro MNDS, González-Díaz H.
 Curr Top Med Chem. 2020;20(25):2326-2337. doi: 10.2174/1568026620666200916122616.
- 
-Prediction of Antileishmanial Compounds: General Model, Preparation, and Evaluation of 2-Acylpyrrole Derivatives.
-Santiago C, Ortega-Tenezaca B, Barbolla I, Fundora-Ortiz B, Arrasate S, Dea-Ayuela MA, González-Díaz H, Sotomayor N, Lete E.
-J Chem Inf Model. 2022 Aug 22;62(16):3928-3940. doi: 10.1021/acs.jcim.2c00731.
  
 IFPTML mapping of nanoparticle antibacterial activity vs. pathogen metabolic networks.
 Ortega-Tenezaca B, González-Díaz H. Nanoscale. 2021 Jan 21;13(2):1318-1330. doi: 10.1039/d0nr07588d.
