@@ -7,6 +7,8 @@ Bernabé Ortega-Tenezaca (1,2) (Software Programming), GitHub: https://github.co
 Humbert González-Díaz (1,3,4,5) (Software Design, Paper Writing, Project Supervision), GitHub: https://github.com/glezdiazh
 Linkedin: https://www.linkedin.com/in/humbertgdiaz/, Contact: humberto.gonzalezdiaz@ehu.eus
 
+Sonia Arrasate Gil (1) (Paper Writing, Project Supervision), GitHub: https://github.com/qopargis
+
 1 Departament of Organic and Inorganic Chemistry, Facultyof Science and Technology, 
 Universityof The Basque Country UPV/EHU, Leioa, 48080,Basque Country, Spain.
 2 Department of Computer Science and Information Technologies,
